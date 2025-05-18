@@ -9,3 +9,5 @@ T
 $contracts/insight-monetization_.clar,7/7/778f4fa1f62cbc8e85365f21393618a04ae795ba
 R
 "contracts/preference-analysis.clar,7/8/78f68cc5491f2a9112914efde21cf81053c6de43
+T
+$contracts/retailer-verification.clar,4/c/4cd63bde59c128f63d5d1cef0a66211a61753953
